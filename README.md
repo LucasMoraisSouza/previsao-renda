@@ -13,5 +13,9 @@ Vamos analisar várias características levando em considerção as variáveis d
 
 
 
-https://github.com/LucasMoraisSouza/previsao-renda/assets/150750136/a92520e7-b38b-4712-a09d-acef7fb62557
+
+
+
+
+https://github.com/LucasMoraisSouza/previsao-renda/assets/150750136/ebfb2d7f-d5bf-4367-b795-0c0e673504a3
 
